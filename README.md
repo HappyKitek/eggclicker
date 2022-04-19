@@ -1,5 +1,3 @@
-eggclicker AK bajojajo game
+simple eggclicker
 
-simple eggclicker on java
-
-to start run Main.java  
+project is currently in work but you can test what I made
